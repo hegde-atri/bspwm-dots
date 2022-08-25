@@ -1,5 +1,5 @@
 <p align="center">
-  <img src"./assets/title.png">
+  <img src"https://raw.githubusercontent.com/hegde-atri/bspwm-dots/main/assets/title.png">
 </p>
 
 ## Features
