@@ -6,10 +6,10 @@
 super + Return
 	kitty
 
-super + u
+super + w
   emacsclient -nc
 
-super + w
+super + u
   firefox
 
 super + e
